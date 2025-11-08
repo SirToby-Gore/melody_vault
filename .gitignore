@@ -1,20 +1,8 @@
-vendor/
-music/
+music
 covers/
+assets/
 
 .*
-*.sh
-*.png
-*.flac
-*.py
-*.css
-*.css.map
-*.js
-
-test.php
 idea.md
-composer.*
-cli/update_music.php
-
 
 !.gitignore
